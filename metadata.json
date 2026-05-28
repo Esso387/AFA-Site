@@ -1,0 +1,6 @@
+{
+  "name": "Australian Freight Agency",
+  "description": "Professional corporate website for the Australian Freight Agency, featuring clean logistics scheduling, interactive freight calculators, secure quotes, and dynamic transport visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
